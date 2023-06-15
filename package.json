@@ -1,5 +1,5 @@
 {
-  "name": "appbase",
+  "name": "insurance",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -10,7 +10,7 @@
     "remove": "sst remove",
     "console": "sst console",
     "typecheck": "tsc --noEmit",
-    "web:dev": "yarn workspace @appbase/web dev"
+    "web:dev": "yarn workspace @insurance/web dev"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.4",

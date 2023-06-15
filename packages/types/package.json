@@ -1,5 +1,5 @@
 {
-  "name": "@appbase/types",
+  "name": "@insurance/types",
   "version": "0.0.0",
   "type": "module",
   "devDependencies": {

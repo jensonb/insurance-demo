@@ -3,7 +3,7 @@ import { SSTConfig } from 'sst';
 export default {
   config() {
     return {
-      name: 'appbase',
+      name: 'insurance',
       region: 'us-west-2',
     };
   },
